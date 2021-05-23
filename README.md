@@ -1,6 +1,5 @@
 # Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/180896-cse/180896-cse.svg)](http://hits.dwyl.com/180896-cse/180896-cse)
 
 ## Gist About Me:
 
