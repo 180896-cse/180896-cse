@@ -10,3 +10,8 @@
 ### - ⚡ Me fact: I'm from those nuts who always ready to dive into new deeps of emerging technologies.
 
 
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
