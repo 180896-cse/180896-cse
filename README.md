@@ -15,4 +15,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Overview of command execution by CLI &lpar;Command Line Interpreter&rpar;.](https://lastdove.medium.com/overview-of-command-execution-by-cli-command-line-interpreter-3e8c884e58fc?source=rss-14ad0b55083a------2)
+- [How-AWS-powers-Netflix's-streaming &lpar;Command Line Interpreter&rpar;.]([(https://lastdove.medium.com/how-aws-powers-netflixs-streaming-799ea10116cc)------2)
 <!-- BLOG-POST-LIST:END -->
